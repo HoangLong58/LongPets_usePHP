@@ -23,9 +23,9 @@ confirmed by the "Consultant" again and instructed on the shipping method to the
 “Consultant”, “Accountant” and “Warehouse and shipping officer” to perform each function with different access rights each other on the management page. “Administrator” after logging 
 in will have the right to operate on the entire system as well as perform interactions with the database.
 
-# Use:
+# Usage:
 -To use the website, you should first import the database with the file "banthucung.sql"<br>
--Download all files and place in local host<br>
+-Download all files and place in localhost<br>
 -You can access the website by following the link http://localhost/LongPets_usePHP/<br>
 # Summary
 Although I have tried to complete the topic in the best way, but with limited time and limited professional knowledge, it is inevitable that there will be shortcomings. 
